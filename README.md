@@ -8,6 +8,29 @@ I have one year remaining on my degree, and I take particular interest in full s
 design and development! I enjoy frontend development and enjoy the process of UI/UX development also.
 Throughout the last few years I've become familiar with multiple languages, which include but aren't limited to: 
 
+## 🛠️ Completed Courses at University:
+#### First Year
+- Introduction to Web Technology
+- Networks and Communications 
+- Data Management and Security 
+- Programming Fundamentals
+- Human Computer Interaction
+- IT Project Management
+
+#### Second Year
+- Advanced Programming
+- Object Oriented Design and Programming
+- System Analysis
+- Problem Solving
+- Mathematics for Computer Science
+- Knowledge and Information Engineering
+- Software Design
+- Database Systems
+
+## 🛠️ Current Courses at University:
+- Algorithms and Data Structures
+- Software Engineering Practices & Principles
+
 
 ## 🛠️ Skills
 
