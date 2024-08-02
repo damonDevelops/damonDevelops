@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ## 🚀 About Me
 
-📜 - Completed a Bachelor of Computer Science with Distinction in 2016
+📜 - Completed a Bachelor of Computer Science with Distinction in 2023
 
 I connect people with the organisations they love with forward thinking applications that encourage usability and consistency
 I enjoy frontend development and enjoy the process of UI/UX development also.
