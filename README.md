@@ -1,11 +1,10 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ## 🚀 About Me
 
-📜 - I'm currently completing my Bachelor of Computer Science at the University of Wollongong,
-with a major in Software Engineering!
+📜 - Completed a Bachelor of Computer Science with Distinction in 2016
 
-I have one year remaining on my degree, and I take particular interest in full stack development as well as game
-design and development! I enjoy frontend development and enjoy the process of UI/UX development also.
+I connect people with the organisations they love with forward thinking applications that encourage usability and consistency
+I enjoy frontend development and enjoy the process of UI/UX development also.
 Throughout the last few years I've become familiar with multiple languages, which include but aren't limited to: 
 
 ## 🛠️ Completed Courses at University:
@@ -27,9 +26,11 @@ Throughout the last few years I've become familiar with multiple languages, whic
 - Software Design
 - Database Systems
 
-## 🛠️ Current Courses at University:
+### Third Year
 - Algorithms and Data Structures
 - Software Engineering Practices & Principles
+- Enterprise Web Development
+- Annual Capstone Project
 
 
 ## 🛠️ Skills
@@ -51,6 +52,10 @@ Throughout the last few years I've become familiar with multiple languages, whic
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Cloud Development
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=amazonwebservices&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-232f3e?style=flat&logo=amazonwebservices&logoColor=white)
 
 ### Block-Chain Development
 
@@ -88,18 +93,20 @@ Throughout the last few years I've become familiar with multiple languages, whic
 
 ## 🏅 Achievements
 
+-   🏆 **Distinction, Dean's Merit Award** at _University of Wollongong_ (2023)
+-   🏆 **Second Place, Annual Capstone Project** at _University of Wollongong_ (2023)
 -   📝 **Golden Key Honour Society Member** at _University of Wollongong_ (2021)
 -   🏆 **High School Prefect** at _Shellharbour Anglican College_ (September 2019)
 -   🏆 **High School Certificate Honour Roll** at _Shellharbour Anglican College_ (September 2019)
 -   ⏫ **Information and Communications Technology Student of the Year** at _Shellharbour Anglican College_ (2019)
 
 ## 🔗 Connect with me:
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](link)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](resume)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://damondevelops.github.io/damon-portfolio/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/damonDevelops/damonDevelops/blob/main/resume-may-2024%20(1).pdf)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/damon-o-neil-464250252/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/damonDevelops)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:damon.oneil2@hotmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/739659063033331714)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/560787085519486986)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009663630825)
 
 <!---
